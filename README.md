@@ -1,6 +1,6 @@
 # Conta - Projeto simples com Orientação a objeto
 
-Projeto construido no evento Next Level Week da Rocketseat.
+Projeto de Banco simples, com objetivo de pegar dados do cliente como numero da conta, nome e saldo a ser depositado ou sacado da conta.
 
 ## 👾 Tecnologia: 
 - Java
